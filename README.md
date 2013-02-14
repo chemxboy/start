@@ -1,3 +1,4 @@
-# My start page #
+start
+=====
 
-Probably won't be useful to you...
+my start page, probably not useful to you
